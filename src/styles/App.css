@@ -14,3 +14,12 @@ button{
 .bg-pink{
 	background-color:pink;
 }
+/* styles.css */
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
