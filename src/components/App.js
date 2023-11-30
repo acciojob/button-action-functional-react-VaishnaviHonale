@@ -15,7 +15,8 @@ const App = () => {
         Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy
       </p>
       <button id="click" onClick={toggleVisibility}>
-          {isVisible ? 'Hide Paragraph' : 'Show Paragraph'}
+          {/* {isVisible ? 'Hide Paragraph' : 'Show Paragraph'} */}
+          Visible
       </button>
     </div>
   );
